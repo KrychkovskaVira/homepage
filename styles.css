@@ -227,8 +227,6 @@ body {
     color: var(--secondary-text-color);
     text-align: left;
     margin-bottom: 20px;
-    text-decoration-color: var(--text-decoration-color);
-    text-decoration-line: underline;
 }
 
 .additional-info__education-university-durability {
@@ -243,6 +241,8 @@ body {
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
+    text-decoration-color: var(--text-decoration-color);
+    text-decoration-line: underline;
 }
 
 .additional-info__education-university-name {
