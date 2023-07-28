@@ -9,7 +9,7 @@ body {
     line-height: 1.5;
 
     --primary-text-color: #181820;
-    --secondary-text-color: #5c5c62;
+    --secondary-text-color: #000000;
     --durability-text-color: #6a737d9c;
     --icon-color: #6a737d;
     --border-color: #30f67c45;
@@ -233,6 +233,7 @@ body {
     text-align: left;
     margin-bottom: 10px;
     font-size: 15px;
+    margin-left: 10px;
 }
 
 .additional-info__education-university-speciality {
@@ -248,6 +249,7 @@ body {
 .additional-info__languages {
     margin-bottom: 20px;
     align-self: flex-start;
+    margin-left: 20px;
 }
 
 .additional-info__languages-header {
